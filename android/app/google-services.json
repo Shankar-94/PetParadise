@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "860547902332",
+    "project_id": "awesomebirds-e54c0",
+    "storage_bucket": "awesomebirds-e54c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860547902332:android:e32275910aa746daec12f9",
+        "android_client_info": {
+          "package_name": "com.awesomebirds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860547902332-470a1dqs5jn7nlsd7uhhpv1if4kmdm5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.awesomebirds",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "860547902332-isr2agfu8rb6trslfn4hpmbhj6bv8asb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrH8qHxMcy7upxgTrvd2sP8M85Fw2SFz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860547902332-isr2agfu8rb6trslfn4hpmbhj6bv8asb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
